@@ -17,6 +17,6 @@ Busco mi primera oportunidad profesional para aplicar mis conocimientos, aportar
 ·Otros: Consumo e integración de APIs
 
 
-· 📫 Contacto
+# 📫 Contacto
 
 LinkedIn: www.linkedin.com/in/valentina-gomez-863970233
